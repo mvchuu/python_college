@@ -1,0 +1,7 @@
+INFO:Uruchomiono serwer.
+DEBUG:Nawiązano połączenie z bazą danych.
+WARNING:Mało miejsca na dysku.
+ERROR:Nie udało się przetworzyć żądania #123.
+To jest linia bez formatu.
+INFO:Zakończono zadanie.
+ERROR:Błąd autoryzacji użytkownika 'admin'.
